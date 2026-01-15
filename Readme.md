@@ -5,5 +5,5 @@ A collection of networking/security projects focused on practical protocol work 
 ## Projects in this repository
 This repository contains multiple independent projects under `./Network-Security-Projects/`:
 
-- `scion-endhost-app/` — Endhost application built on SCION.
-- `firewall/` — A simple firewall implementation plus traffic generation for testing
+- `msheikh-scion-project/` — Endhost application built on SCION.
+- `msheikh-firewall-project-main/` — A simple firewall implementation plus traffic generation for testing
